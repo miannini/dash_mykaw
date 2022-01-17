@@ -7,8 +7,8 @@ Created on Wed Sep  9 22:08:23 2020
 import pandas as pd
 import mysql.connector
 db_connection = mysql.connector.connect(
-  	host="35.229.36.251",
-  	user="m4a.DA",
+  	host="35.185.0.199",
+  	user="m4a.MI",
   	passwd="m4a2020"
     )
 
@@ -37,7 +37,7 @@ prueba2  = pd.read_sql(sql, db_connection)
 
 # import pymysql
 # import sqlalchemy as sa
-# engine = sa.create_engine("mysql+pymysql://" + "m4a.DA" + ":" + "m4a2020" + "@" + "34.73.96.30" + "/" + "m4a_bi")
+# engine = sa.create_engine("mysql+pymysql://" + "m4a.DA" + ":" + "m4a2020" + "@" + "35.185.0.199" + "/" + "m4a_bi")
 
 # Data_lotes.to_sql('Data_lotes', engine,  if_exists='append', index=False)
 
