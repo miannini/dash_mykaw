@@ -1,0 +1,6 @@
+Parto	Fecha	IEP	No. nacidos	Días lact.	Leche lact.	Leche 305d.	Leche kg/d	Leche vs. hato	Fat (kg)	Protein (kg)
+Total					29'032					
+Promedio		446	3			7'778		144%		
+1	28/11/2016	387	1	338	7'992	7'369	20.7	149%		
+2	20/12/2017	369	1	316	7'499	7'349	20.3	125%		
+3	24/12/2018	582	1	524	13'541	8'616	23.3	160%		

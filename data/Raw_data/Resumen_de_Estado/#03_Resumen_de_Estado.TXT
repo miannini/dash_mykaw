@@ -1,0 +1,2 @@
+N	Parto	1er. servicio	NS	Ult. servicio	Concepción	Int.	Costo	Secado	Lact.	305-d.	Leche acum.	Leche/ día	Conc. acum.	Conc/ leche	No. hijos	No. Mast	No. Abort.
+0		14/02/2020........518	1	14/02/2020............518	14/02/2020...518	800	$20'600						0			0	0

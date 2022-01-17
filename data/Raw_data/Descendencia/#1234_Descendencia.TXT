@@ -1,0 +1,6 @@
+Nacimiento	Sexo / Tipo	Nombre	Referencia	Salida	Padre
+23/06/2013	He:Rp	1811                		23/04/2018	66
+2/07/2014	Ma:Rp	M-1234-2            		3/07/2014	69
+30/03/2016	He:Rp	H-1234-3            	ISLA                	30/03/2016	1
+14/09/2018	He:Rp	03                  			80
+28/12/2019	He:Ceb	G2344               			1

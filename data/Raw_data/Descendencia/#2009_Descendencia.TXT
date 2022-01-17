@@ -1,0 +1,4 @@
+Nacimiento	Sexo / Tipo	Nombre	Referencia	Salida	Padre
+28/11/2016	He:Rp	2475                	ISLA                		95
+20/12/2017	He:Rp	H-2009-2            		21/12/2017	
+24/12/2018	Ma:Rp	M-2009-3            		24/12/2018	7

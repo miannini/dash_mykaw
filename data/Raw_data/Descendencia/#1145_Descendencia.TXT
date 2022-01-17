@@ -1,0 +1,6 @@
+Nacimiento	Sexo / Tipo	Nombre	Referencia	Salida	Padre
+4/03/2013	Ma:Rp	M-1145-1            		5/03/2013	98
+28/09/2014	Ma:Rp	M-1145-2            		29/09/2014	80
+2/12/2015	Ma:Rp	M-1145-3            		3/12/2015	85
+18/01/2017	He:Rp	2510                		28/02/2020	90
+6/03/2018	He:Rp	2701                			3

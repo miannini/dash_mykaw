@@ -1,0 +1,5 @@
+Fecha	Hato	Lote	Grupo	Valor
+				
+28/11/2019	ISLA		NI	$0
+2/03/2018	RC		CF	$0
+2/03/2018	ISLA		LT.I	$0
