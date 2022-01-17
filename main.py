@@ -25,8 +25,8 @@ import dash_bootstrap_components as dbc
 
 import mysql.connector
 db_connection = mysql.connector.connect(
-    host="35.229.36.251",
-      user="m4a.DA",
+    host="35.185.0.199",
+      user="m4a.MI",
       passwd="m4a2020"
     )
 #--------------------------------------------------------------------------------------------------------------------------------------------
@@ -34,7 +34,7 @@ db_connection = mysql.connector.connect(
 
 #LEE ARCHIVO BASE
 def data_in():
-    db_connection = mysql.connector.connect(host="35.229.36.251", user="m4a.DA", passwd="m4a2020")
+    db_connection = mysql.connector.connect(host="35.185.0.199", user="m4a.MI", passwd="m4a2020")
 
     # df = pd.read_csv(os.path.join("data/Data_lotes.csv"))
     sql_df = '''select * from m4a_bi.Data_lotes'''
